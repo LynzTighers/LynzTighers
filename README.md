@@ -1,6 +1,6 @@
 ## Hi, I'm Lyna 👋
 I'm a Computer Engineer at The Ohio State University, I'm interested in embedded systems and software development. I enjoy building projects and learning how hardware and software work together.
-💻 Technologies
+##💻 Technologies
 
 C / C++
 
@@ -18,13 +18,13 @@ Tailwind CSS
 
 Git & GitHub
 
-🧠 Computer Science
+##🧠 Computer Science
 
 Data Structures & Algorithms
 
 Practicing problem solving with LeetCode
 
-🛠️ Tools
+##🛠️ Tools
 
 VS Code
 
@@ -32,7 +32,7 @@ Eclipse
 
 Code Composer Studio
 
-🌱 Currently Learning
+##🌱 Currently Learning
 
 System Design
 
@@ -42,7 +42,7 @@ Frontend Development with Next.js
 
 Backend Development with Node.js
 
-🔧 Interests
+##🔧 Interests
 
 Embedded systems
 
