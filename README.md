@@ -1,4 +1,54 @@
-## Hi there 👋
+## Hi, I'm Lyna 👋
+I'm a Computer Engineer at The Ohio State University, I'm interested in embedded systems and software development. I enjoy building projects and learning how hardware and software work together.
+💻 Technologies
+
+C / C++
+
+Java
+
+JavaScript / TypeScript
+
+Node.js
+
+Next.js
+
+React
+
+Tailwind CSS
+
+Git & GitHub
+
+🧠 Computer Science
+
+Data Structures & Algorithms
+
+Practicing problem solving with LeetCode
+
+🛠️ Tools
+
+VS Code
+
+Eclipse
+
+Code Composer Studio
+
+🌱 Currently Learning
+
+System Design
+
+Database Systems
+
+Frontend Development with Next.js
+
+Backend Development with Node.js
+
+🔧 Interests
+
+Embedded systems
+
+Backend development
+
+Full-stack web development
 
 <!--
 **LynzTighers/LynzTighers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
