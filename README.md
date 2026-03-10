@@ -2,53 +2,53 @@
 I'm a Computer Engineer at The Ohio State University, I'm interested in embedded systems and software development. I enjoy building projects and learning how hardware and software work together.
 ##💻 Technologies
 
-C / C++
+- C / C++
 
-Java
+- Java
 
-JavaScript / TypeScript
+- JavaScript / TypeScript
 
-Node.js
+- Node.js
 
-Next.js
+- Next.js
 
-React
+- React
 
-Tailwind CSS
+- Tailwind CSS
 
 Git & GitHub
 
 ##🧠 Computer Science
 
-Data Structures & Algorithms
+- Data Structures & Algorithms
 
-Practicing problem solving with LeetCode
+- Practicing problem solving with LeetCode
 
 ##🛠️ Tools
 
-VS Code
+- VS Code
 
-Eclipse
+- Eclipse
 
-Code Composer Studio
+- Code Composer Studio
 
 ##🌱 Currently Learning
 
-System Design
+- System Design
 
-Database Systems
+- Database Systems
 
-Frontend Development with Next.js
+- Frontend Development with Next.js
 
-Backend Development with Node.js
+- Backend Development with Node.js
 
 ##🔧 Interests
 
-Embedded systems
+- Embedded systems
 
-Backend development
+- Backend development
 
-Full-stack web development
+- Full-stack web development
 
 <!--
 **LynzTighers/LynzTighers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
