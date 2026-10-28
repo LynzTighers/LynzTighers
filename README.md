@@ -62,6 +62,19 @@ I love figuring out how things work, building thoughtful solutions, and turning 
   <img src="https://img.shields.io/badge/Figma-24233A?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
 </p>
 
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:A78BFA00&height=2" width="100%" alt="" /></p>
+
+### 🧁 Featured Project
+
+**[Chez Hayet Bakery](https://www.chezhayetoh.com)**: a full-stack website for a bakery, with a baker login and an admin dashboard.
+<sub>Next.js + Tailwind front end on Vercel · TypeScript Express API with Postgres (Neon) · Docker Compose · zod validation · bcrypt + cookie-session auth</sub>
+
+<p align="left">
+  <a href="https://www.chezhayetoh.com"><img src="https://img.shields.io/badge/Live%20site-24233A?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Live site" /></a>
+  <a href="https://github.com/LynzTighers/chez-hayet-bakery"><img src="https://img.shields.io/badge/Frontend-24233A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Frontend" /></a>
+  <a href="https://github.com/LynzTighers/chez-hayet-bakery-api"><img src="https://img.shields.io/badge/API-24233A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="API" /></a>
+</p>
+
 ### 🔗 Connect With Me
 
 <p align="left">
