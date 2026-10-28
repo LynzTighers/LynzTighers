@@ -64,7 +64,7 @@ I love figuring out how things work, building thoughtful solutions, and turning 
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:A78BFA00&height=2" width="100%" alt="" /></p>
 
-### 🧁 Featured Project
+### 🧁 Featured Projects
 
 **[Chez Hayet Bakery](https://www.chezhayetoh.com)**: a full-stack website for a bakery, with a baker login and an admin dashboard.
 <sub>Next.js + Tailwind front end on Vercel · TypeScript Express API with Postgres (Neon) · Docker Compose · zod validation · bcrypt + cookie-session auth</sub>
@@ -73,6 +73,15 @@ I love figuring out how things work, building thoughtful solutions, and turning 
   <a href="https://www.chezhayetoh.com"><img src="https://img.shields.io/badge/Live%20site-24233A?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Live site" /></a>
   <a href="https://github.com/LynzTighers/chez-hayet-bakery"><img src="https://img.shields.io/badge/Frontend-24233A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Frontend" /></a>
   <a href="https://github.com/LynzTighers/chez-hayet-bakery-api"><img src="https://img.shields.io/badge/API-24233A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="API" /></a>
+</p>
+
+**Smart Chicken Coop Door**: a Raspberry Pi 4 and USB camera system that detects chickens, with a dashboard and event history, working alongside ESP32 controllers that handle the coop door.
+<sub>Team senior capstone · private repo · in progress</sub>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-24233A?style=for-the-badge&logo=raspberrypi&logoColor=A22846" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/ESP32-24233A?style=for-the-badge&logo=espressif&logoColor=E7352C" alt="ESP32" />
+  <img src="https://img.shields.io/badge/In%20progress-A78BFA?style=for-the-badge" alt="In progress" />
 </p>
 
 ### 🔗 Connect With Me
