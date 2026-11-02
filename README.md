@@ -75,6 +75,16 @@ I love figuring out how things work, building thoughtful solutions, and turning 
   <a href="https://github.com/LynzTighers/chez-hayet-bakery-api"><img src="https://img.shields.io/badge/API-24233A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="API" /></a>
 </p>
 
+**[Expedition](https://github.com/LynzTighers/Expedition)**: a co-op expansion mod for *Outward Definitive Edition* that grows online parties from 2 to 4 players and adds shared loot, shared quest rewards, party pings and party markers on the map.
+<sub>C# · BepInEx 5 + Harmony patches on a Unity game · Photon networking · open source (MIT) · alpha, tested with 3 players</sub>
+
+<p align="left">
+  <a href="https://github.com/LynzTighers/Expedition/releases/latest"><img src="https://img.shields.io/github/v/release/LynzTighers/Expedition?include_prereleases&style=for-the-badge&label=Download&labelColor=24233A&color=A78BFA&logo=github&logoColor=FFFFFF" alt="Download" /></a>
+  <a href="https://github.com/LynzTighers/Expedition"><img src="https://img.shields.io/badge/Source-24233A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Source" /></a>
+  <img src="https://img.shields.io/badge/C%23-24233A?style=for-the-badge&logo=dotnet&logoColor=A78BFA" alt="C#" />
+  <img src="https://img.shields.io/badge/Unity-24233A?style=for-the-badge&logo=unity&logoColor=FFFFFF" alt="Unity" />
+</p>
+
 **Smart Chicken Coop Door**: a Raspberry Pi 4 and USB camera system that detects chickens, with a dashboard and event history, working alongside ESP32 controllers that handle the coop door.
 <sub>Team senior capstone · private repo · in progress</sub>
 
